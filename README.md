@@ -14,3 +14,7 @@ The idea is to create a simple calculator as I learn new coding languages, so I 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="50" height="50">
+<p align="left">
+
+>[!NOTE]
+> Newer calcs may be better than old ones since I am learning and progressively upgrading my skills. For now I have no intention on updating the old ones if not needed)
