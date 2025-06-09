@@ -17,4 +17,4 @@ The idea is to create a simple calculator as I learn new coding languages, so I 
 <p align="left">
 
 >[!NOTE]
-> Newer calcs may be better than old ones since I am learning and progressively upgrading my skills. For now I have no intention on updating the old ones if not needed)
+> Newer calcs may be better than old ones since I am learning and progressively upgrading my skills. For now I have no intention on updating the old ones if not needed
